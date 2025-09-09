@@ -1,4 +1,4 @@
-SELECT * FROM amazon.amazondata;
+SELECT * FROM amazon.amazondata; 
 
 alter table amazondata
 modify Date date;
