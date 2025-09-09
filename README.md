@@ -43,7 +43,7 @@ The following analyses were performed:
 3. **Sales Analysis**: Analyzing sales trends of products to measure the effectiveness
    of sales strategies and identifying modifications needed to increase sales.
 5. **Customer Analysis**: Uncovering different customer segments, purchase trends, and
-    the profitability of each customer segment.
+    the profitability of each customer segments.
 
 
 
